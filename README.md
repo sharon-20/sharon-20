@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shoshi Sharon
-- 👀 I like to write code and develop, especially development fullStack with React & NodeJs || c# & angular
+- 👀 I like to write code and develop, especially development with Python
 - 📫 How to reach me: shoshi35936@gmail.com
 
 <!---
